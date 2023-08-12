@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **GETWORKER**
 
-- 🌱 I’m currently learning **Bloc**
+- 🌱 I’m currently learning **Provider**
 
 - 💬 Ask me about **Flutter, Dart, Statemanagement**
 
