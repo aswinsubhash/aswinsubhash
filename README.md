@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aswinsubhash" alt="aswinsubhash" /></a> </p>
 
-- 🔭 I’m currently working on **GETWORKER**
-
-- 🌱 I’m currently learning **Provider**
+- 🌱 I’m currently learning **BLoC**
 
 - 💬 Ask me about **Flutter, Dart, Statemanagement**
 
