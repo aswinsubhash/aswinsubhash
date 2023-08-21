@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswinsubhash&label=Profile%20views&color=0e75b6&style=flat" alt="aswinsubhash" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aswinsubhash" alt="aswinsubhash" /></a> </p>
-
 - 🌱 I’m currently learning **S.O.L.I.D Principles & Top Design Patterns**
 
 - 💬 Ask me about **Flutter, Dart, Statemanagement**
