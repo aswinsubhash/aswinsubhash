@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aswin Subhash</h1>
 <h3 align="center">Self taught flutter developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aswinsubhash&label=Profile%20views&color=0e75b6&style=flat" alt="aswinsubhash" /> </p>
-
 - 🌱 I’m currently learning **S.O.L.I.D Principles & Top Design Patterns**
 
 - 💬 Ask me about **Flutter, Dart, Statemanagement**
