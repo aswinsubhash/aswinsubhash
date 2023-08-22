@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aswin Subhash</h1>
 <h3 align="center">Self taught flutter developer</h3>
 
-- 🌱 I’m currently learning **S.O.L.I.D Principles & Top Design Patterns**
+- 🌱 I’m currently learning **Top Design Patterns**
 
 - 💬 Ask me about **Flutter, Dart, Statemanagement**
 
