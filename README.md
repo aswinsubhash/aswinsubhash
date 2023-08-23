@@ -8,7 +8,7 @@
 - 📫 How to reach me **aswinofficial3@gmail.com**
   
 - Documentations
-  1. [**S.O.L.I.D Principles Using Dart** (Published)](https://github.com/aswinsubhash/SOLID-Principles-Using-Dart-and-Top-Design-Patterns)
+  1. [**S.O.L.I.D Principles Using Dart**](https://github.com/aswinsubhash/SOLID-Principles-Using-Dart-and-Top-Design-Patterns)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
