@@ -9,7 +9,6 @@
   
 - Documentations
   1. [**S.O.L.I.D Principles Using Dart** (Published)](https://github.com/aswinsubhash/SOLID-Principles-Using-Dart-and-Top-Design-Patterns)
-  2. [**Top Design Patterns** (On going)](https://github.com/aswinsubhash/Top-Design-Patterns.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
