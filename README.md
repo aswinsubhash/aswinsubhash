@@ -12,7 +12,4 @@
 <a href="https://www.youtube.com/channel/UCh5DJpojL7oLyz51gE8IevA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aswin subhash" height="30" width="40" /></a>
 </p>
   
-- Documentations
-  1. [**S.O.L.I.D Principles Using Dart**](https://github.com/aswinsubhash/SOLID-Principles-Using-Dart-and-Top-Design-Patterns)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aswinsubhash&" alt="aswinsubhash" /></p>
