@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Top Design Patterns**
 
-- 💬 Ask me about **Flutter, Dart, Statemanagement**
-
-- 📫 How to reach me **aswinofficial3@gmail.com**
+- 📫 Reach me **aswinofficial3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
