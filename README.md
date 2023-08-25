@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aswin Subhash</h1>
 <h3 align="center">Flutter Developer</h3>
 
-- 📫 Reach me **aswinofficial3@gmail.com**
+📫 Reach me **aswinofficial3@gmail.com**
 
 <p align="left">
 <a href="https://twitter.com/aswin3subhash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aswinsubhash" height="30" width="40" /></a>
