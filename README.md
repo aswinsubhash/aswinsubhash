@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aswin Subhash</h1>
-<h3 align="center">Flutter Developer</h3>
+<h1 align="left">Hi 👋, I'm Aswin Subhash</h1>
+<h3 align="left">Flutter Developer</h3>
 
 📫 Reach me **aswinofficial3@gmail.com**
 
