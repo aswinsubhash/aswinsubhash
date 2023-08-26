@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Aswin Subhash</h1>
 <h3 align="left">Flutter Developer</h3>
 
-📫 Reach me **aswinofficial3@gmail.com**
+Reach me **aswinofficial3@gmail.com**
 
 <p align="left">
 <a href="https://www.linkedin.com/in/aswin-subhash-flutter-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin subhash" height="30" width="40" /></a>
