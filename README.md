@@ -12,6 +12,6 @@ Reach me **aswinofficial3@gmail.com**
 
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinsubhash&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinsubhash&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)-->
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aswinsubhash&" alt="aswinsubhash" /></p> -->
