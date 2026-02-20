@@ -122,14 +122,6 @@ Regional information and utility app for Okinawa, Japan
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswinsubhash&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🎓 Education
 
 **Bachelor of Engineering in Computer Science**  
