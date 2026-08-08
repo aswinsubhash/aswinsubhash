@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aswin Subhash</h1>
 <h3 align="center">Mobile Application Developer | Flutter Expert</h3>
-<p align="center">Building high-performance, scalable mobile applications with 2.5+ years of experience</p>
+<p align="center">Building high-performance, scalable mobile applications with 3+ years of experience</p>
 
 <p align="center">
   <a href="mailto:aswinofficial3@gmail.com">📧 Email</a> •
