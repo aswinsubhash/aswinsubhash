@@ -70,31 +70,6 @@ final aswin = {
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## Things I’ve enjoyed building 📱
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚗 Tabeh GPS</h3>
-      <p>A real-time vehicle tracking experience with trip history, geofencing, fuel monitoring, and useful alerts.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏠 Rental Anshin Kun</h3>
-      <p>A visual property-inspection workflow with panoramic room views, pinpointed damage, and trackable evidence.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🍱 Look Meal</h3>
-      <p>A nutrition and food discovery app with search, filters, nutrient details, rewards, and social sharing.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌴 Okinawa Navi</h3>
-      <p>A regional companion bringing together local news, weather, events, food, and live rain information.</p>
-    </td>
-  </tr>
-</table>
-
 ## GitHub, in motion 📈
 
 <div align="center">
